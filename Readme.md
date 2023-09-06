@@ -23,4 +23,12 @@ Windows
 11. paste password in window and then continue , install plugins.
 12. start using jenkins, goto people and admin
 13. docker pull jenkins/jenkins
-
+14 cd ~/
+15 open docker next, docker pull jenkins/jenkins( if not opens clear and run docker pull jenkins/jenkins)
+16 ls
+docker image ls
+docker run jenkins/jenkins
+clear
+docker run jenkins/jenkins -p 8181:8080
+docker run jenkins/jenkins
+docker run -p 8181:8080 jenkins/jenkins
