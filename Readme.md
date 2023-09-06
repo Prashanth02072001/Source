@@ -36,7 +36,7 @@ docker run -p 8181:8080 jenkins/jenkins
 17  docken ps(int terminal)
 18 then write in new tab like  localhost:8181
 
-Project creation
+**Project creation**
 1. new project
 2. enter title
 
