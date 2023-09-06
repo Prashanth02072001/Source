@@ -27,9 +27,12 @@ Windows
 15 open docker next, docker pull jenkins/jenkins( if not opens clear and run docker pull jenkins/jenkins)
 16 ls
 docker image ls
-docker run jenkins/jenkins
+docker run jenkins/jenkins (we can have password)
 clear
 docker run jenkins/jenkins -p 8181:8080
 docker run jenkins/jenkins
+docker man
 docker run -p 8181:8080 jenkins/jenkins
 17  docken ps(int terminal)
+18 then write in new tab like  localhost:8181
+
