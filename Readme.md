@@ -1,15 +1,15 @@
-**Jenkins installation**
+# Jenkins installation
 Docker/ by kubernetes
 WAR files(web application archive)
 Windows
 
-**Apache Tomcat Installation**
+# Apache Tomcat Installation
 1.Installjava8
 2. Apache tomcat v9
 3.Download and deploy war file
 4.Installation of plugin
 
-**Install home brew**
+# Install home brew
 1. brew install jenkins-lts
 2.clear
 3.brew list(finds jenkins)
@@ -36,16 +36,16 @@ docker run -p 8181:8080 jenkins/jenkins
 17  docken ps(int terminal)
 18 then write in new tab like  localhost:8181
 
-**Project creation**
+# Project creation
 1. new project
 2. enter title
 3. build environment--> add echo "hi" on build steps.
 
-**Jenkins security**
+# Jenkins security
 Manage Jenkins
 
-**Fingerprints in Jenkins**
+# Fingerprints in Jenkins
 . file versions
-. how exah project depend on other(i.e top on bottom)
-# changes
+. how each project depend on other(i.e top on bottom)
+
 
