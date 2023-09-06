@@ -32,3 +32,4 @@ clear
 docker run jenkins/jenkins -p 8181:8080
 docker run jenkins/jenkins
 docker run -p 8181:8080 jenkins/jenkins
+17  docken ps(int terminal)
