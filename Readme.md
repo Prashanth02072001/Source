@@ -9,7 +9,7 @@ Windows
 3.Download and deploy war file
 4.Installation of plugin
 
-**Install home brew**
+#Install home brew
 1. brew install jenkins-lts
 2.clear
 3.brew list(finds jenkins)
@@ -35,4 +35,8 @@ docker man
 docker run -p 8181:8080 jenkins/jenkins
 17  docken ps(int terminal)
 18 then write in new tab like  localhost:8181
+
+Project creation
+1. new project
+2. enter title
 
