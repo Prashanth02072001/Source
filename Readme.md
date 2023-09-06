@@ -44,4 +44,8 @@ docker run -p 8181:8080 jenkins/jenkins
 **Jenkins security**
 Manage Jenkins
 
+**Fingerprints in Jenkins**
+. file versions
+. how exah project depend on other(i.e top on bottom)
+
 
