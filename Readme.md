@@ -39,4 +39,9 @@ docker run -p 8181:8080 jenkins/jenkins
 **Project creation**
 1. new project
 2. enter title
+3. build environment--> add echo "hi" on build steps.
+
+**Jenkins security**
+Manage Jenkins
+
 
