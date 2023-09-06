@@ -9,7 +9,7 @@ Windows
 3.Download and deploy war file
 4.Installation of plugin
 
-#Install home brew
+**Install home brew**
 1. brew install jenkins-lts
 2.clear
 3.brew list(finds jenkins)
