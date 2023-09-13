@@ -16,7 +16,7 @@ Windows
 4.brew services list
 5.brew services start jenkins-lts
 6. brew services list
-7. goto window(chrome) and search for [here]http://loclhost:8080
+7. goto window(chrome) and search for [here][http://loclhost:8080]
 8. got to path mentioned on the screen of window for password setup
 9. secrets ls
 10.cat initialAdminPassword (copy the password)
